@@ -1,5 +1,4 @@
 using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -8,7 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Text;
 using System.Net;
-using System.Net.Mail;
+
 
 
 public partial class UpdateContent : System.Web.UI.Page
